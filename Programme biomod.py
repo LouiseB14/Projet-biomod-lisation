@@ -20,7 +20,7 @@ for souris in range (0,96) :    #On doit avoir une courbe pour chaque souris
   fFécal = open('sortie fécal', 'w')
   fCécal = open('sortie cécal', 'w')
   fIleal = open('sortie ileal', 'w')
-  #Le fichier contenant les données de l'expérience est ouvert et les fichiers de sortie (qui contiendront les données nécessaires aux 3 graphiques sont crées
+  #Le fichier contenant les données de l'expérience est ouvert et les fichiers de sortie (qui contiendront les données nécessaires aux 3 graphiques) sont crées
   fFécal.close()
   fCécal.close()
   fIleal.close()
